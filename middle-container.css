@@ -1,0 +1,28 @@
+.middle-container{
+    margin-top: 100px;
+}
+.profile{
+    width: 50%;
+    margin: auto;
+}
+.dp{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.skills-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skill{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+.skill2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
